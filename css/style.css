@@ -1203,6 +1203,11 @@ footer .credits a {
   border-radius: .3rem;
 }
 
+/* Paragraph justify content */
+body .justify {
+  text-align: justify !important;
+}
+
 @media (min-width: 577px) {
   .counter-box {
     margin-bottom: 1.8rem;
